@@ -12,3 +12,5 @@ This repository contains files produced for my IBM Coursera Advanced Data Scienc
 <em>Given date, time, weather, light and road conditions, predict accident severity within the operating geographic area of a police force</em> <br>
 <br>
 <b>The deliverable is a tool that should faciliate ressource allocation and mitigate the probability of serious accidents given current driving conditions</b>
+
+![Web interface](https://raw.githubusercontent.com/AttitudeAdjuster/Accident-Severity-Prediction/master/img/Web%20Interface.png)

@@ -7,7 +7,7 @@ This repository contains files produced for my IBM Coursera Advanced Data Scienc
 
 
 # Use case: Predict accident severity at each output area (LSOA) given datetime and driving conditions
-<b>We will be looking at one Police Force to start with and only retain a few features based on our use case:</b><br>
+<b>For each Police Force we build a prediction model with the following objective:</b><br>
 <br>
 <em>Given date, time, weather, light and road conditions, predict accident severity within the operating geographic area of a police force</em> <br>
 <br>

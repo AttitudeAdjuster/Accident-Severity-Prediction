@@ -15,7 +15,7 @@ Detailed dataset of road accidents and involved vehicles in the UK (2005-2016)<b
 <br>
 
 ## Project pipeline
-
+![Pipeline](https://raw.githubusercontent.com/AttitudeAdjuster/Accident-Severity-Prediction/master/img/archi.png)
 ## Deliverable
 <b>The deliverable is a tool that should faciliate ressource allocation and mitigate the probability of serious accidents given current driving conditions</b>
 

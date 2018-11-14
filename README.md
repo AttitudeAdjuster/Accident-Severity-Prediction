@@ -1,6 +1,6 @@
-# UK Road Safety: Traffic Accidents and Vehicles
-## Detailed dataset of road accidents and involved vehicles in the UK (2005-2016)
-Source:
+## UK Road Safety: Traffic Accidents and Vehicles
+# DataSource: 
+Detailed dataset of road accidents and involved vehicles in the UK (2005-2016)
 <U>https://www.kaggle.com/tsiaras/uk-road-safety-accidents-and-vehicles#Accident_Information.csv</U>
     
 This repository contains files produced for my IBM Coursera Advanced Data Science Capstone Project
